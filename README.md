@@ -1,5 +1,3 @@
-##Function
-
 import me.Now;
 
 public void Main(string[] loves){
