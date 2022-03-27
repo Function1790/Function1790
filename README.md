@@ -1,4 +1,6 @@
-import me.Now;
+[<Function.cs>]
+
+using me.Now;
 
 public void Main(string[] loves){
   Work(High_School);
