@@ -1,9 +1,1 @@
-[<Function.cs>]
-
-using me.Now;
-
-public void Main(string[] loves){
-  Work(High_School);
-  Main_Language(C#, Python, Java);
-  Wanna_Be(FullStack_Developer);
-}
+###[test](<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp )
