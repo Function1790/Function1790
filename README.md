@@ -1,6 +1,3 @@
-# <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"> Welcome!
-개발자가 되고픈 학생!
-
 # Main
 |Category|Skill|
 |-|-|
@@ -13,18 +10,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Function1790)](https://github.com/Function1790)
 
-# Blog
-내가 만든 프로그램 소개
-
-**' C. ' = 클론 코딩**
-### https://scriptfunction.tistory.com/
-<li><a href="https://scriptfunction.tistory.com/14?category=918756">중력 시뮬레이터</a></li>
-<li><a href="https://scriptfunction.tistory.com/3?category=918756">바나나톡(C. KakaoTalk)</a></li>
-<li><a href="https://scriptfunction.tistory.com/4?category=918756">온라인 수업 시간표</a></li>
-<li><a href="https://scriptfunction.tistory.com/6?category=918756">충돌 시뮬레이터</a></li>
-<li><a href="https://scriptfunction.tistory.com/7?category=918756">주기율표(C. Wallpaper)</a></li>
-<li><a href="https://scriptfunction.tistory.com/5?category=918756">첫 유니티 게임</a></li>
-<li><a href="https://scriptfunction.tistory.com/16?category=952890">글자 타이핑 연출</a></li>
 
 # Used
 |Category|Language|
