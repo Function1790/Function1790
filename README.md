@@ -15,7 +15,6 @@ Currently diving deep into **full-stack development**, **network security**, and
 
 ## 😎 Major Career
 - 2022
-  **서령고등학교**
   **정보보호영재교육원**, 경진대회 우수상
 - 2025
   **숭실대학교**, 소프트웨어학부
