@@ -1,11 +1,65 @@
-# Main
-|Category|Skill|
-|-|-|
-|Software| ![](https://img.shields.io/badge/C_Sharp-239120?style=for-the-badge&logo=csharp&logoColor=white) ![](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.NET&logoColor=white) ![](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![](https://img.shields.io/badge/java-F80000?style=for-the-badge&logo=oracle&logoColor=white)|
-|Frontend|![](https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white)|
-|Backend|![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white) ![](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white) ![](https://img.shields.io/badge/nestjs-red?style=for-the-badge&logo=nestjs&logoColor=white)|
-|Game|![](https://img.shields.io/badge/unity-002244?style=for-the-badge&logo=unity&logoColor=white)|
-|Using|![](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white) ![](https://img.shields.io/badge/ADOBE_XD-FF61F6?style=for-the-badge&logo=Adobe-XD&logoColor=white)|
+# 👋 Hi there! I'm Function1790
 
+I'm a backend developer.  
+Currently diving deep into **full-stack development**, **network security**, and **collaborative projects**.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Function1790)](https://github.com/Function1790)
+---
+
+## 💻 Tech Stack
+
+- **Languages**: Python, JavaScript, TypeScript, Java, C#, C, R  
+- **Frameworks**: Express, NestJS  
+- **Currently learning**: Full-stack best practices, Web/App Security, Team collaboration
+
+---
+
+## 😎 Major Career
+- 2022
+  **서령고등학교**
+  **정보보호영재교육원**, 경진대회 우수상
+- 2025
+  **숭실대학교**, 소프트웨어학부
+
+---
+
+## 🚀 Projects
+
+### 🧥 Wear-and-Share  
+[🔗 GitHub 링크](https://github.com/Function1790/Wear-and-Share)
+
+> 의류를 사고, 나누고, 되팔 수 있는 올인원 앱  
+> **외주 프로젝트**로 진행했으며, **NestJS**를 기반으로 구축
+
+**주요 기능**
+- 회원가입, 프로필, 상품 등록/검색/상세 보기
+- 채팅, 배송 옵션, 카트 시스템
+- 포인트 적립 및 쿠폰 발급/사용
+- **OAuth 2.0**, **실시간 채팅**, **관리자 페이지**
+- 이미 구매한 옷을 중고로 다시 거래 가능
+
+> 복잡한 서비스 아키텍처 구성과 다양한 비즈니스 로직을 직접 설계 및 구현
+
+---
+
+### 🛍️ T-Shop  
+[🔗 GitHub 링크](https://github.com/Function1790/T-Shop)
+
+> 동아리 학술제에서 부스 체험 포인트 지급을 자동화하기 위한 웹 포인트 쇼핑몰  
+> **Express.js** 기반으로 구축한 첫 번째 프로젝트
+
+**주요 기능**
+- 재고 확인, 주문 기록, 장바구니, 관리자 페이지
+- CRUD(생성/조회/수정/삭제) 전반 구현
+- **AES 암호화**를 이용한 포인트 전송 보안
+- 실시간 서버 운영 및 문제 대응 경험
+- 모바일 UI 구현과 실제 기기 테스트
+
+> **보안성과 실용성**을 모두 고려한 개발로, 실무 감각을 익힌 경험
+
+---
+
+## 📫 Contact
+
+- Instagram: [@jheon._.lee06](https://instagram.com/jheon._.lee06)
+
+---
