@@ -36,9 +36,11 @@ Currently diving deep into **backend development**, **network security**, and **
 - **OAuth 2.0**, **WebSocket 실시간 채팅**, **관리자 페이지**
 - 이미 구매한 옷을 중고로 다시 거래 가능
 
+**특이 사항**
+- WebSocket 관련 메서드 오작동 해결을 위해, 채팅 송수신 핸들러 직접 구현
+- Google API를 이용해 소셜 로그인 구현
+
 > 복잡한 서비스 아키텍처 구성과 다양한 비즈니스 로직을 직접 설계 및 구현
-> WebSocket 관련 메서드 오작동 해결을 위해, 채팅 송수신 핸들러 직접 구현
-> Google API를 이용해 소셜 로그인 구현
 
 ---
 
@@ -55,11 +57,13 @@ Currently diving deep into **backend development**, **network security**, and **
 - 실시간 서버 운영 및 문제 대응 경험
 - 모바일 UI 구현과 실제 기기 테스트
 
+**특이 사항**
+- 프로젝트 경험을 통해 REST API에 대한 지식 슥듭
+- SQL Injection, XSS와 같은 기본적인 **보안** 시스템 구축
+- 관리자 페이지 개발로 문제 대응
+- 학생 약 600명을 대상으로 실시간 운영
+
 > **보안성과 실용성**을 모두 고려한 개발로, 실무 감각을 익힌 경험
-> 프로젝트 경험을 통해 REST API에 대한 지식 슥듭
-> SQL Injection, XSS와 같은 기본적인 **보안** 시스템 구축
-> 관리자 페이지 개발로 문제 대응
-> 학생 약 600명을 대상으로 실시간 운영
 
 ---
 
