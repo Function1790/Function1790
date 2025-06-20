@@ -7,7 +7,7 @@ Currently diving deep into **backend development**, **network security**, and **
 
 ## 💻 Tech Stack
 
-- **Languages**: Python, JavaScript, TypeScript, Java, C#, C, R  
+- **Languages**: Python, Javascript, Typescript, Java, C#, C, R  
 - **Frameworks**: Express, NestJS  
 - **Currently learning**: Full-stack best practices, Web/App Security, Team collaboration
 
