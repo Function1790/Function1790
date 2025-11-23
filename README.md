@@ -17,7 +17,7 @@ Currently diving deep into **backend development**, **network security**, and **
 - 2022
   **정보보호영재교육원**, CTF 개인전 우수상
 - 2022-2024
-  *서령고등학교**, 프로그래밍 동아리 부회장, 회장
+  **서령고등학교**, 프로그래밍 동아리 부회장, 회장
 - 2025
   **숭실대학교**, 소프트웨어학부
 - 2025
