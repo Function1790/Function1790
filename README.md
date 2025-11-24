@@ -11,6 +11,8 @@ Currently diving deep into **backend development**, **network security**, and **
 - **Frameworks**: Express, NestJS, Spring Boot  
 - **Currently learning**: Full-stack best practices, Web/App Security, Team collaboration
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Function1790&show_icons=true&theme=radical)
+
 ---
 
 ## 😎 Major Career
