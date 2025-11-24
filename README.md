@@ -21,10 +21,11 @@ Currently diving deep into **backend development**, **network security**, and **
 - 2022-2024
   **서령고등학교**, 프로그래밍 동아리 부회장, 회장
 - 2025
-  **숭실대학교**, 소프트웨어학부
+  **숭실대학교**, 소프트웨어학부 SW 특기자
 - 2025
   **Junction Asia**, 본선 진출
 
 ---
 
-[Portfolio](https://function1790.github.io/)
+## More Info
+### [Portfolio](https://function1790.github.io/)
