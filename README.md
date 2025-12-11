@@ -24,6 +24,8 @@ Currently diving deep into **backend development**, **network security**, and **
   **숭실대학교**, 소프트웨어학부 SW 특기자
 - 2025
   **Junction Asia**, 본선 진출
+- 2025
+  **창의적공학설계**, 우수상
 
 ---
 
