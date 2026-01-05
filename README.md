@@ -26,6 +26,10 @@ Currently diving deep into **backend development**, **network security**, and **
   **Junction Asia**, 본선 진출
 - 2025
   **창의적공학설계**, 우수상
+- 2025
+  **UMC 9th**, Spring Boot 챌린저
+- 2025-2026
+  **LALA**, Havester NestJS 개발 담당
 
 ---
 
