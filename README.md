@@ -30,6 +30,8 @@ Currently diving deep into **backend development**, **network security**, and **
   **UMC 9th**, Spring Boot 챌린저
 - 2025-2026
   **LALA**, Havester NestJS 개발 담당
+- 2026
+  **UMC 9th Demoday**, 최우수상(아름답)
 
 ---
 
