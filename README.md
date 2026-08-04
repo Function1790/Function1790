@@ -6,9 +6,9 @@ I'm a backend developer.
 
 ## 💻 Tech Stack
 
-- **Languages**: Typescript, Javascript, Python, Java, C#, C, R  
+- **Languages**: Typescript, Javascript, Python, Java, C#, C/C++, ASM
 - **Frameworks**: NestJS, Express, Spring Boot  
-- **Currently learning**: Backend Tech.
+- **Currently learning**: Backend/Infra Tech.
 
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=function1790&show_icons=true&theme=dracula" />
@@ -19,7 +19,7 @@ I'm a backend developer.
 - 2022
   **정보보호영재교육원**, CTF 개인전 우수상
 - 2022-2024
-  **서령고등학교**, 프로그래밍 동아리 부회장, 회장
+  **서령고등학교**, 프로그래밍 동아리 회장
 - 2025
   **숭실대학교**, 소프트웨어학부 SW 특기자
 - 2025
@@ -30,8 +30,8 @@ I'm a backend developer.
   **UMC 9th**, Spring Boot 챌린저 수료
 - 2026
   **UMC 9th Demoday**, 최우수상(아름답)
-- 2025-2027
-  **LALA**, Havester 백엔드 개발 연구원
+- 2025-2026
+  **LALA**, Havester 백엔드/인프라 담당
 
 ---
 
